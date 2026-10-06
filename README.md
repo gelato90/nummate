@@ -1,4 +1,16 @@
-# NumNum
+# nummate — Windows Custom Build
+
+This is a modified version of [NumNum](https://github.com/rudrabhoj/numnum).
+
+## Modifications
+
+- Windows GUI subsystem enabled to prevent a console window appearing.
+- Custom Windows executable icon.
+- Live exchange rates remain enabled.
+
+Original project: https://github.com/rudrabhoj/numnum
+
+This project remains licensed under the original project's GPLv2 license.
 
 A text editor that does math. Type what you're thinking, get answers as you type.
 
